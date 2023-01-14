@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "920231916895",
+    "project_id": "listahan-proj",
+    "storage_bucket": "listahan-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920231916895:android:de8c692330ad5a84b372ea",
+        "android_client_info": {
+          "package_name": "com.example.listahan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920231916895-iudr11tp9a7782g0ql48fqli5f2buusl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDm5UKcWGezm6t85avdO1njjsCCHpoHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920231916895-iudr11tp9a7782g0ql48fqli5f2buusl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920231916895-39cpgnir76qpg1r27qvlf5cp716fh2qt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.listahanApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920231916895:android:09ff41dc32734ce0b372ea",
+        "android_client_info": {
+          "package_name": "com.example.listahan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920231916895-iudr11tp9a7782g0ql48fqli5f2buusl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDm5UKcWGezm6t85avdO1njjsCCHpoHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920231916895-iudr11tp9a7782g0ql48fqli5f2buusl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920231916895-39cpgnir76qpg1r27qvlf5cp716fh2qt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.listahanApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
